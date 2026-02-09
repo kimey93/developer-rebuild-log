@@ -4,3 +4,6 @@
 - Rebuild log started
 - Notion Day 1 created
 - GitHub cleanup completed (fork/org)
+
+> Detailed daily logs are maintained in Notion.
+> This repository contains summarized notes and practices.
